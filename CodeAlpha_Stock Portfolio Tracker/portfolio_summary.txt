@@ -1,5 +1,0 @@
-Stock Portfolio Summary
-========================
-MSFT: 2 shares x $310 = $620
-
-Total investment value: $620
